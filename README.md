@@ -1,6 +1,7 @@
 ## microbit-NRG
 A random number generator using the microbit's sensors to generate a lot of numbers.
 
+![](https://i.imgur.com/acGpaVs.gif)
 
 **How to use**
 1) Flash the micro:bit with the hex in the release section.
